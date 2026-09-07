@@ -237,3 +237,6 @@ This repository serves as the official landing page for **Apowersoft Free Audio 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Apowersoft Free Audio Recorder today!**
+
+---
+**Last updated:** 2026-09-07 20:12:08 UTC
